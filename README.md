@@ -6,8 +6,8 @@ I'm a passionate frontend developer with a keen interest in creating delightful 
 
 
 - **Languages:** HTML, CSS, JavaScript, python
-- **Frameworks/Libraries:** React.js, Vue.js
-- **Tools:** Git, Webpack, npm
+- **Frameworks/Libraries:** React.js
+- **Tools:** Git, npm, vite
 - **Design:** Figma, Adobe XD
 - **Responsive Design:** Bootstrap, Flexbox, Grid
 
