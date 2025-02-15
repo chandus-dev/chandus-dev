@@ -8,7 +8,7 @@ I'm a passionate frontend developer with a keen interest in creating delightful 
 - **Languages:** HTML, CSS, JavaScript, python
 - **Frameworks/Libraries:** React.js
 - **Tools:** Git, npm, vite
-- **Design:** Figma, Adobe XD
+- **Design:** Figma
 - **Responsive Design:** Bootstrap, Flexbox, Grid
 
 <!-- ## 🌱 Currently Learning -->
@@ -25,8 +25,5 @@ I'm a passionate frontend developer with a keen interest in creating delightful 
 <!-- - [Twitter](https://twitter.com/yourusername) -->
 - [Portfolio Website](https://www.yourwebsite.com)
 
-## 🚧 Fun Fact
-
-I believe that good design and clean code can change the world! 🌍✨
 
 Thanks for visiting my GitHub profile! 😊
